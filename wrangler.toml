@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 # KV Namespace — بعد از ساخت با wrangler kv namespace create CNM_KV این id رو پر کن
 [[kv_namespaces]]
 binding = "CNM_KV"
-id = "REPLACE_WITH_YOUR_KV_ID"
+id = "0846b894a36549b2aced775af1741c22"
 
 # Durable Objects
 [[durable_objects.bindings]]
